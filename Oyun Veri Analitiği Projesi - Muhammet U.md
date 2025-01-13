@@ -1,5 +1,5 @@
 # Oyun
-Veri Analitiği Bootcamp Projesi - Muhammet Uzun
+Veri Analitiği Projesi - Muhammet Uzun
 
 ## **1. Break-Even Point noktası için maksimum CPI kaç olmalıdır? Yorumlayınız**
 
